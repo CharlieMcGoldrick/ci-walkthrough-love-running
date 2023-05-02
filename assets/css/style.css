@@ -1,3 +1,15 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/* Global Styling */
+* {
+    margin: 0;
+    padding: 0;
+    border: none
+}
+
+/* Body */
 body {
-    font-family: arial;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
 }
